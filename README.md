@@ -1,4 +1,4 @@
-# 21107064_Python-Assignment-2
+# 21107064_Python-Assignments
 Name- Dhruv Aggarwal
 SID- 21107064
-Python Assignment 2
+Python Assignments Sem 2
